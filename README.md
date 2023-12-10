@@ -23,7 +23,7 @@
 
     npm test
 
-#### Desafios implementado
+#### Desafios implementados
 [ ] Crie os componentes referentes aos elementos na página inicial
   - Crie um componente para o header, com o título da aplicação
   - Crie um componente para o botão, que aceite onClick como uma das props do componente
