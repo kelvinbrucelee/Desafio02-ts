@@ -1,5 +1,6 @@
 # Desenvolvendo o Dio Bank
-desenvolvido por [Nathally Souza](https://github.com/nathyts)
+
+![Image Alt Text](./public/login-dio-bank.png)
 
 #### Projeto desenvolvido com React
 
@@ -18,7 +19,11 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
     npm start
 
-#### Desafios
+#### Rodar o teste unitário
+
+    npm test
+
+#### Desafios implementado
 [ ] Crie os componentes referentes aos elementos na página inicial
   - Crie um componente para o header, com o título da aplicação
   - Crie um componente para o botão, que aceite onClick como uma das props do componente
